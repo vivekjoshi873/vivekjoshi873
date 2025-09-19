@@ -1,17 +1,7 @@
-<h1 align="center">Hi, I'm Vivek Joshi</h1>
-<h3 align="center">A Front-End Developer | Full-Stack Developer in Making</h3>
+<h1 align="">Hi, I'm Vivek Joshi 👋</h1>
+<p align="">I’m Vivek Joshi, a aspiring Full Stack Developer with a strong focus on Frontend Development. Skilled in JavaScript, React & Next.js, , I’m passionate about building scalable and user-friendly web applications. </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=vivekjoshi873&label=Profile%20views&color=0e75b6&style=flat" alt="vivekjoshi873" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/vivek2005joshi" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vivek2005joshi?logo=twitter&style=for-the-badge" alt="vivek2005joshi" />
-  </a> 
-</p>
-
-- 📫 How to reach me **vivekjo.dev@gmail.com**
+---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -112,3 +102,16 @@
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="cursor" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vivekjoshi873&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vivekjoshi873&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjoshi873&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=vivekjoshi873&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
